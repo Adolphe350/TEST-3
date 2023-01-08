@@ -1,0 +1,2 @@
+# YalaWebsite
+Young African Leaders Alliance- Rwanda (YALA) is an non-profit organization that aims at youth leadership development, mentoring and reaching out to the youth in Rwanda and other countries in Africa with the mission of building the next generation of African leaders who will be agent of transformation to the community.

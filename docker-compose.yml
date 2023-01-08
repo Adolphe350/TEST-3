@@ -1,0 +1,10 @@
+services:
+    web:
+      image: yalaweb
+      build:
+        context: .
+      environment:
+        - FLASK_APP=server.py
+        - FLASK_ENV=production
+      ports:
+        - '80:80'
